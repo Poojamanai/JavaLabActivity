@@ -1,4 +1,4 @@
-package com.activity06;
+package com.question2;
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
