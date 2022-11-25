@@ -1,4 +1,4 @@
-package com.question1;
+package com.activity6question1;
 
 import java.util.Scanner;
 public class SquareOfNumber {
